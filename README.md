@@ -50,8 +50,8 @@ GET [base_url]/sentiment-analysis/This%20is%20a%20great%20day
 ```
 
 ### How to Run
-1.Clone this repository.
-2.Install the dependencies by running pip install -r requirements.txt.
+1. Clone this repository.
+2. Install the dependencies by running pip install -r requirements.txt.
 3. Run the FastAPI application by executing uvicorn main:app --reload.
 
 ### Contributing
